@@ -9,4 +9,4 @@ I used Descriptive statistics to find answers to following questions:
 
 1. How many people come to the field being 45 and older?
 2. What is the most popular job titles within newcomers?
-3. Who has bigger starting salary newcomers under 25 or after 45?
+3. Who has bigger starting salary newcomers under 25 or over 45?
