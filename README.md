@@ -1,4 +1,4 @@
-# Stackoverflow-2018-syrvey
+# Stackoverflow-2018-survey
 
 In this project my goal is to take a closer look at Stack Overflow 2018 Annual Developer Survey to explore possibilities of changing my career at age 46. The data was downloaded from [Stack Overflow site](https://insights.stackoverflow.com/survey).
 
